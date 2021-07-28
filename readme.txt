@@ -30,4 +30,12 @@ git mate .gitignor
 git add .gitignor 
 git commit -m "adding .gitignoer"
 
+-------Create Branches---
+
+git checkout -b <branchupdate> --- Create branch and 
+
+----for branch added this ----
+
+updates for only branch 
+
 
