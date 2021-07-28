@@ -39,7 +39,11 @@ git commit -m "adding update to branch"
 
 updates for only branch 
 
+***** git log --oneline --graph --decorate --all  -----to see the all changes 
+
 *** To Merge branch to master/trunk we need to switch to master then we need to use merge command. 
+git merge <branchname> -- it will merge to master
+
 
 
 
