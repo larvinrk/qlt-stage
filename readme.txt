@@ -12,3 +12,22 @@ git init . -- adding existing folder to git respostary
 git add . -- will add all files to stage ennv.
 
 git commit . --will commit all 
+
+git log --oneline --graph --decorate --all
+
+git mv smaple.txt demo.txt. -- rename file in respostary
+git staus
+
+git commit -m "renamed"
+
+git rm demo.txt -- to del a file 
+
+To ignore files need to create .gitignor file and add what are the files needs to ignored for commit.
+-------
+
+git mate .gitignor
+  -- add file name need to igonre ex all log files *.log
+git add .gitignor 
+git commit -m "adding .gitignoer"
+
+
