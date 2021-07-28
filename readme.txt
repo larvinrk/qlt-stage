@@ -44,7 +44,9 @@ updates for only branch
 *** To Merge branch to master/trunk we need to switch to master then we need to use merge command. 
 git merge <branchname> -- it will merge to master
 
+get branch -d <branchname> ---to delete the branch.
 
+*for bad for confilict*******
 
 
 
