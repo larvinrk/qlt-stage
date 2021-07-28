@@ -32,10 +32,16 @@ git commit -m "adding .gitignoer"
 
 -------Create Branches---
 
-git checkout -b <branchupdate> --- Create branch and 
+git checkout -b <branchupdate> --- Create branch and switch to it
 
-----for branch added this ----
+git add . -- Adding modified file to that branch.
+git commit -m "adding update to branch"
 
 updates for only branch 
+
+*** To Merge branch to master/trunk we need to switch to master then we need to use merge command. 
+
+
+
 
 
