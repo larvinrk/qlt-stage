@@ -49,7 +49,18 @@ get branch -d <branchname> ---to delete the branch.
 *for bad for confilict*******
 
 
-LarvinBranch
+git reset --Soft <commitid> ----It will only point head ot that commit id, again we need to comit and add.
+git rest --hard <commitid> -----It will point commit and addtoo
+
+----------------------------------------GIT HUB---------------------
+Github is used to connect to remote server.
+larvin.ratnakumar@qualitestgroup.com
+username: larvinrk
+johnjim@1230
+
+git remote add origin https://github.com/larvinrk/qlt-stage.git   connect to github
+git push -u origin master --tags  ---Enter uid and password of github
+
 
 
 
