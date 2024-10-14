@@ -53,13 +53,6 @@ git reset --Soft <commitid> ----It will only point head ot that commit id, again
 git rest --hard <commitid> -----It will point commit and addtoo
 
 ----------------------------------------GIT HUB---------------------
-Github is used to connect to remote server.
-larvin.ratnakumar@qualitestgroup.com
-username: larvinrk
-johnjim@1230
-
-git remote add origin https://github.com/larvinrk/qlt-stage.git   connect to github
-git push -u origin master --tags  ---Enter uid and password of github
 
 
 
